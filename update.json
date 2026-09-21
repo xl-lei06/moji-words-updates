@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 4,
+  "versionName": "1.3.0",
   "minSdk": 26,
-  "releaseNotes": "新增手写笔防误触、可调压感橡皮擦、每日目标、乱序出词、收藏夹与遗忘曲线智能复习。",
-  "downloadUrl": "https://github.com/xl-lei06/moji-words-updates/releases/download/v1.2.0/MojiWords-v1.2.0.apk",
-  "sha256": "F883D29446AE0ADA55A011344DC84E2AE039ADAA33160F266EAA1164047E2C98"
+  "releaseNotes": "记住笔触粗细；修复并增强压感、侧键与笔尾橡皮；新增 6113 个完整词条，含搭配、词形、辨析与词根信息。",
+  "downloadUrl": "https://github.com/xl-lei06/moji-words-updates/releases/download/v1.3.0/MojiWords-v1.3.0.apk",
+  "sha256": "89A608D5EF59A6BB6CB5F571B8D8C3F0FB8378FCE63DF5C94D4E5C25D95F166C"
 }
