@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
+  "versionCode": 6,
+  "versionName": "1.4.1",
   "minSdk": 26,
-  "releaseNotes": "新增可视矩形橡皮擦并改为局部裁切笔画；压感触发后持续擦除到抬笔，解决压力回落导致擦不干净的问题。",
-  "downloadUrl": "https://github.com/xl-lei06/moji-words-updates/releases/download/v1.4.0/MojiWords-v1.4.0.apk",
-  "sha256": "E01E376C610468A23227B668474ED9B98AF91D89FC93216A49112EDD0055FA7D"
+  "releaseNotes": "固定正式发布签名，支持从 v1.2 及之后版本直接覆盖更新，并保留学习记录、收藏、错题和设置。",
+  "downloadUrl": "https://github.com/xl-lei06/moji-words-updates/releases/download/v1.4.1/MojiWords-v1.4.1.apk",
+  "sha256": "A696A51AF57C8602841E8D17083743357BDE04B4C081203544482B75E6C66804"
 }
