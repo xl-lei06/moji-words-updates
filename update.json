@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.1",
+  "versionCode": 7,
+  "versionName": "1.5.0",
   "minSdk": 26,
-  "releaseNotes": "固定正式发布签名，支持从 v1.2 及之后版本直接覆盖更新，并保留学习记录、收藏、错题和设置。",
-  "downloadUrl": "https://github.com/xl-lei06/moji-words-updates/releases/download/v1.4.1/MojiWords-v1.4.1.apk",
-  "sha256": "A696A51AF57C8602841E8D17083743357BDE04B4C081203544482B75E6C66804"
+  "releaseNotes": "重做学习统计：新增今日/7天/30天范围切换、真实每日趋势、去重学习词数、有效作答、正确率、活跃天数、连续学习、今日目标和复习入口；跳过不再影响正确率。",
+  "downloadUrl": "https://github.com/xl-lei06/moji-words-updates/releases/download/v1.5.0/MojiWords-v1.5.0.apk",
+  "sha256": "330C372FD6DB64E9DE5DE9E86D4B1CADB13E6A072482C479658A2EB0943DDB75"
 }
