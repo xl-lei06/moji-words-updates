@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
+  "versionCode": 5,
+  "versionName": "1.4.0",
   "minSdk": 26,
-  "releaseNotes": "记住笔触粗细；修复并增强压感、侧键与笔尾橡皮；新增 6113 个完整词条，含搭配、词形、辨析与词根信息。",
-  "downloadUrl": "https://github.com/xl-lei06/moji-words-updates/releases/download/v1.3.0/MojiWords-v1.3.0.apk",
-  "sha256": "89A608D5EF59A6BB6CB5F571B8D8C3F0FB8378FCE63DF5C94D4E5C25D95F166C"
+  "releaseNotes": "新增可视矩形橡皮擦并改为局部裁切笔画；压感触发后持续擦除到抬笔，解决压力回落导致擦不干净的问题。",
+  "downloadUrl": "https://github.com/xl-lei06/moji-words-updates/releases/download/v1.4.0/MojiWords-v1.4.0.apk",
+  "sha256": "E01E376C610468A23227B668474ED9B98AF91D89FC93216A49112EDD0055FA7D"
 }
