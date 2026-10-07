@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7.0",
+  "versionCode": 12,
+  "versionName": "1.9.0",
   "minSdk": 26,
-  "releaseNotes": "新增手写笔侧键模式、主副键选择、设备按键校准与兼容性自检，接入小米 PenEngine；完善词书选择、先学后默写、暂停恢复、候选确认和错词重试，保留旋转后的笔迹；修复识别上下文、异常误判和重复计分。支持直接覆盖安装保留数据；快捷键兼容性取决于设备与系统。",
-  "downloadUrl": "https://github.com/xl-lei06/moji-words-updates/releases/download/v1.7.0/MojiWords-v1.7.0.apk",
-  "sha256": "4F3A6CC338A3F3AB2DA3694A916EA75DD6858F2753C13AF6D508B210FAE1EBC0"
+  "releaseNotes": "新增完整词库/真题高频范围切换，扩充高频词：初中616、高中1023、四级1346、六级2034、考研1795；新增逐词来源、真实统计出处与覆盖比例，未知频次显示未提供。保留完整词库、学习进度、收藏、错词和设置，可直接覆盖升级。高频为开源精选及真题样本派生，不代表官方必考；中考为深圳样本，考研为英语一。",
+  "downloadUrl": "https://github.com/xl-lei06/moji-words-updates/releases/download/v1.9.0/MojiWords-v1.9.0.apk",
+  "sha256": "3CE964F614555A0C3BAA11D4C187FE114FECCBA4A1801B0CED211F34C13858B9"
 }
